@@ -1,0 +1,6 @@
+{
+  "name": "Secure Vault",
+  "description": "Advanced encrypted photo and video sharing with anti-screenshot protection, password encryption, self-destruct timers, and one-time view enforcement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
